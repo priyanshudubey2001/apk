@@ -1,3 +1,5 @@
+using: 'node20'
+  main: 'main.js'
 name: CI
 on:
   push:
